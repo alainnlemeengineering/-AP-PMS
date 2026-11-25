@@ -34,21 +34,20 @@ Case Western Reserve University (CWRU) Bearing Data Center.
 
 ## Project Architecture
 
-```text
-AP-PMS/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-├── src/
-├── models/
-├── dashboard/
-├── results/
-├── documentation/
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
+1. AP-PMS/
+   1.1 data/
+       1.1.1 raw/
+       1.1.2 processed/
+   1.2 notebooks/
+   1.3 src/
+   1.4 models/
+   1.5 dashboard/
+   1.6 results/
+   1.7 documentation/
+   1.8 requirements.txt
+   1.9 .gitignore
+   1.10 README.md
+
 
 ## Development Roadmap
 
